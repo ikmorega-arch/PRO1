@@ -1,6 +1,6 @@
 @echo off
 set start_time=%time%
-"c:\Users\jmore\OneDrive\PRO1\Interessos (2).exe"
+"c:\Users\jmore\OneDrive\PRO1\Interessos.exe"
 set end_time=%time%
 echo.
 echo Nhan phim bat ki de thoat...
