@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout.setf(ios::fixed);
-    cout.precision(4);
+    cout.precision(4);   
 
     int c = 1000;
     double i;
